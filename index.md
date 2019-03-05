@@ -1,5 +1,4 @@
-
-  <h1><center>Ding Yifei</center></h1>
+<h1><center>Ding Yifei</center></h1>
 <center>
  <br><br> 34-406,DaLongGang Community,Suchow,China 	215007<br><br>(86)132-9119-0620	&nbsp;&nbsp;(86)180-4269-1392  &nbsp;&nbsp; QQ/Wechat：812183153<br><br> [15106139449@163.com](15106139449@163.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [DannyQuark123@Gmail.com](DannyQuark123@Gmail.com) 
 <center>
@@ -115,5 +114,5 @@ and update，daily operation and promotion
 　　    Hong Kong,finished the lecture "Expectations and Innovations for the Development of News Communication in the
 　　     Period of Media Transition".
 
-　　     • Vice Minister,City Institute Media Alliance Propaganda Center, Dalian University of Technology
+　　   • Vice Minister,City Institute Media Alliance Propaganda Center, Dalian University of Technology
 　　   Participate preparing in a series of activities such as freshman、graduate party, and daily media publicity.  
